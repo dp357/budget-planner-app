@@ -4,13 +4,13 @@ A budget planner app built by React and Nodejs (Under development...)
 
 ## Testing
 
-Run following command on Ubuntu Terminal or WSL terminal for localhost.
+Open the folder "client" and run the following command on Ubuntu Terminal (Linux) or WSL terminal (Windows)
 
 ```bash
 npm start
 ```
 
-## Features
+## Planned Features
 
 1. Transaction Display
 2. Search by category
@@ -19,10 +19,10 @@ npm start
 ## Contributing
 
 Main contributors:
-Daniel Pham
-Kevin Sugeng
-Vernill Angelo
-Kathryn 
+* Daniel Pham
+* Kevin Sugeng
+* Vernill Angelo
+* Kathryn 
 
 For future future contributors, you are welcome to join our Discord and discuss the project.
 
